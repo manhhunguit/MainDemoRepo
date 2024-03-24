@@ -1,0 +1,3 @@
+[submodule "SubDemoRepo"]
+	path = SubDemoRepo
+	url = https://github.com/manhhunguit/SubDemoRepo.git
